@@ -1,0 +1,5 @@
+a=input('enter string')
+i=len(a)
+while(i):
+    print a[i-1],
+    i=i-1
